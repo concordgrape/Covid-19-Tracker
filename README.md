@@ -9,6 +9,7 @@ Project is created with:
 * WinForms
 * WinCharts
 * C#
+* TSQL
 	
 ## Setup
 To correctly run SQL please input a SQL connection string in the App.config file as well as a path to the CSV data file that the Canadian government provides.
