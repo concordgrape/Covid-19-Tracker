@@ -1,12 +1,8 @@
-# Don8: Blockchain Donation Website
-(get it? "donate")
+# Covid-19 Tracker
+Covid-19 tracking dashboard
 
 ## General info
-Don8 is a simple blockchain based off of Naivechain [(Github)](https://github.com/lhartikk/naivechain)
-This website allows users to add fundraisers through a blockchain, or donate to a specific cryptocurrency address.
-These fundraisers will include a cryptocurrency wallet address so that everything stays anonymous.
-
-# Covid-19 Tracker
+This Covid-19 tracking application displays specific data from the Canada government while using MSCharts within a WPF application. Data can be found using the link below.
 
 ## Technologies
 Project is created with:
