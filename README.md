@@ -8,7 +8,6 @@ This Covid-19 tracking application displays specific data from the Canada govern
 Project is created with:
 * WinForms
 * WinCharts
-* C#
 * TSQL
 	
 ## Setup
